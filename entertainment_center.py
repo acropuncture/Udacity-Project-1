@@ -1,6 +1,8 @@
 import media
 import fresh_tomatoes
-
+##This file contains the objects for each movie initiated by media.py.
+## Each object contains the movie title, duration, short description,...
+## link to the poster, and a link to the youtube trailer.
 
 shawshank = media.Movie("Shawshank Redemption",120,"Victory over actual prison",
                         "https://www.movieposter.com/posters/archive/main/42/MPW-21321",
